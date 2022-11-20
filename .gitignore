@@ -1,0 +1,12 @@
+*.classpath
+*.jar
+*.prefs
+web-customer-tracker/.project
+web-customer-tracker/.settings/.jsdtscope
+web-customer-tracker/.settings/org.eclipse.wst.common.component
+web-customer-tracker/.settings/org.eclipse.wst.common.project.facet.core.xml
+web-customer-tracker/.settings/org.eclipse.wst.jsdt.ui.superType.container
+web-customer-tracker/.settings/org.eclipse.wst.jsdt.ui.superType.name
+web-customer-tracker/build/classes/com/springdemo/controller/CustomerController.class
+web-customer-tracker/build/classes/com/testdb/TestDbServlet.class
+web-customer-tracker/WebContent/META-INF/MANIFEST.MF
